@@ -4,7 +4,7 @@ FreelanceFlow AI bridges the gap between freelance project estimation and immedi
 
 ## 🚀 Live Demo
 - **Live Application:** [https://joyobaga.github.io/ai-commerce-assistant/](https://joyobaga.github.io/ai-commerce-assistant/)
-- **Demo Video:** [Insert your YouTube link here after recording]
+- **Demo Video:** (https://youtu.be/jS0v4HoXEps)
 
 ## 💡 The Problem
 Freelancers lose billable hours writing custom proposals and often face scope creep or delayed upfront deposits. Clients often abandon lengthy contract documents before initiating work.
